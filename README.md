@@ -1,2 +1,2 @@
 # AppointmentPlanner
-A simple react application. 
+A simple react application that uses: 
